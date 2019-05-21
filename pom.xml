@@ -91,6 +91,8 @@
 					</execution>
 				</executions>
 				<configuration>
+					<username>spkumar05</username>
+					<password>Findspk@56</password>
 					<repository>spkumar05/${project.artifactId}</repository>
 					<tag>${project.version}</tag>
 				</configuration>
